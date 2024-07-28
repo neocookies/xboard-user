@@ -2,9 +2,9 @@
 window.routerBase = 'https://x2.701121.xyz/'
 window.settings = {
   // 站点名称
-  title: 'Xboard',
+  title: 'kfc',
   // 站点描述
-  description: 'Xboard',
+  description: 'Welcome',
   assets_path: '/assets',
   // 主题色
   theme: {
