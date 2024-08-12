@@ -1,10 +1,10 @@
 // API地址
-window.routerBase = 'https://node_api.mdcloudservices.net/'
+window.routerBase = 'https://aa.mdcloudservices.com/'
 window.settings = {
   // 站点名称
   title: 'kfc',
   // 站点描述
-  description: 'Welcome',
+  description: '一键加速',
   assets_path: '/assets',
   // 主题色
   theme: {
