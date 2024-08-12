@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://x2.701121.xyz/'
+window.routerBase = 'https://node_api.mdcloudservices.net/'
 window.settings = {
   // 站点名称
   title: 'kfc',
